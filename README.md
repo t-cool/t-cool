@@ -5,6 +5,7 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=t-cool&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
 
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=t-cool&theme=gruvbox)](https://github.com/t-cool)
 ----
 [![](https://raw.githubusercontent.com/t-cool/t-cool/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/t-cool)
