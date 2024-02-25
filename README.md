@@ -1,5 +1,4 @@
-## 👋 Hi! I'm t-cool
-
+## 👋 Hi! I'm t-cool 🤗
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-cool&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
@@ -13,7 +12,7 @@
 [![](https://raw.githubusercontent.com/t-cool/t-cool/main/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/t-cool)
 
 
-### 🧪 Favorite Languages
+### 🧪 favorite languages and tools
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
