@@ -1,9 +1,8 @@
 # Hi! I'm t-cool 🤗
 
-JavaScript 等のスタックを中心に、教育職場の情報化に取り組んでいます。
+GCP やオープンソース技術を用いて、教育の情報化に取り組んでいます。
 
-I am working on informatization of the educational workplace, focusing on JavaScript and other stacks.
-
+I am working on informatization of education using GCP and open source technologies.
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-cool&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
